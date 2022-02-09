@@ -9,8 +9,7 @@ void main()
 	if (ch=='a'|| ch=='e'||ch=='i'||ch=='o'||ch=='u')
 	{
 		printf("\n\t vowel");
-	}                                d
-	else
+	}                                
 	{
 		printf("\n\t dconsonants");
 	}
